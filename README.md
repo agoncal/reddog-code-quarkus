@@ -1,5 +1,5 @@
 
-# reddog-code-spring
+# reddog-code-quarkus
 
 ### Background
 
